@@ -1,21 +1,18 @@
-# dustark-transchina
+# TransChina
 
-> train and flight search
+## Trains and Flights Query
 
-## Build Setup
+- Multiple departure and multi-destination queries
+- Smart recommend low-priced routes nearby
+- Multi-dimensional filter and sort
+- Quick switch of the query page of train and flights
 
-``` bash
-# install dependencies
-npm install
+## Tickets
 
-# serve with hot reload at localhost:8080
-npm run dev
+- Real-time refresh of ticket information
+- Crawling price information from e-commerce platform, quick jump to ticket page of different platform
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![9y7oa8.png](https://s1.ax1x.com/2018/03/04/9y7oa8.png)
+![9y7HPg.png](https://s1.ax1x.com/2018/03/04/9y7HPg.png)
+![9y7TIS.png](https://s1.ax1x.com/2018/03/04/9y7TIS.png)
+![9y7IVf.png](https://s1.ax1x.com/2018/03/04/9y7IVf.png)
